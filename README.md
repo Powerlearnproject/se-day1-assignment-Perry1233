@@ -32,7 +32,7 @@ Watterfall is best suited for projects with well-defined requirements and minima
 Agile is Ideal for projects with evolving requirements and a need for frequent updates. For example, developing a mobile app where user feedback and market trends may drive ongoing changes and feature additions.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering 
+Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 •SOFTWARE DEVELOPER: software developers write the code that powers the software and also implement the architecture laid out in the design document 
 •QUALITY ASSURANCE ENGINEER: QA engineers ensure the quality of the product and that the software meets customer requirements
 •PROJECT MANAGER: oversees planning, execution and delivery of software projects
@@ -75,6 +75,6 @@ IMPORTANCE: prompt engineering is crucial for interacting with AI models because
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 ANSWER: 
-VAGUE PROMPT:Tell me about security.
+VAGUE PROMPT: Tell me about security.
 IMPROVED PROMPT: Explain the best practices for securing web applications against SQL injection attacks.
 By refining the prompt, the request becomes more actionable, leading to a more relevant and targeted response.
